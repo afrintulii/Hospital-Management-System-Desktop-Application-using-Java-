@@ -8,35 +8,35 @@ Features
 # Authentication System , Secure login for Admin, Doctor, Receptionist, and Patient Password recovery feature for users who forget their passwords.
 A user can login the application using username and password.
 
-![Login Page Screenshot](assets/2.png)
+![Login Page Screenshot](asset/2.png)
 
 # Registration system for new users.
-![registration Page Screenshot](assets/30.png)
+![registration Page Screenshot](asset/30.png)
 
 #Admin Panel
 An admin can add new doctor information, new receptionist information to the hospital database. He can delete their information, update their information. He can also full history of the doctor's or receptionist's.
 
-![Admin Page doctors1](assets/3.png)
+![Admin Page doctors1](asset/3.png)
 
-![Admin Page doctors2](assets/4.png)
+![Admin Page doctors2](asset/4.png)
 
-![Admin Page doctors3](assets/5.png)
+![Admin Page doctors3](asset/5.png)
 
-![Admin Page doctors4](assets/6.png)
+![Admin Page doctors4](asset/6.png)
 
-![Admin Page doctors5](assets/7.png)
+![Admin Page doctors5](asset/7.png)
 
-![Admin Page doctors6](assets/8.png)
+![Admin Page doctors6](asset/8.png)
 
-![Admin Page receptionist1](assets/9.png)
+![Admin Page receptionist1](asset/9.png)
 
-![Admin Page receptionist2](assets/10.png)
+![Admin Page receptionist2](asset/10.png)
 
-![Admin Page receptionist3](assets/11.png)
+![Admin Page receptionist3](asset/11.png)
 
-![Admin Page receptionist4](assets/12.png)
+![Admin Page receptionist4](asset/12.png)
 
-![Admin Page receptionist5](assets/14.png)
+![Admin Page receptionist5](asset/14.png)
 
 
 
